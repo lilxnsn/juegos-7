@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página sobre Videojuegos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        ul {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>El Fascinante Mundo de los Videojuegos</h1>
+        <p>Los videojuegos han evolucionado enormemente desde sus inicios, convirtiéndose en una forma de entretenimiento popular y en una industria multimillonaria. Aquí exploraremos algunos aspectos interesantes de los videojuegos.</p>
+        
+        <h2>Historia de los Videojuegos</h2>
+        <p>Los videojuegos comenzaron en la década de 1950, pero no fue hasta los años 70 y 80 que ganaron popularidad con consolas como Atari y Nintendo. A lo largo de los años, la tecnología ha avanzado y ha permitido crear experiencias de juego más inmersivas y gráficamente impresionantes.</p>
+        
+        <h2>Imagen Representativa</h2>
+        <img src="https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/store/games/wz/overview/WZPLP_Hero.webp">
+        
+        <h2>Lista de Consolas Populares</h2>
+        <ol>
+            <li>PlayStation</li>
+            <li>Xbox</li>
+            <li>Nintendo Switch</li>
+            <li>PC Gaming</li>
+            <li>Sega Genesis</li>
+        </ol>
+        
+        <h2>Video sobre la Evolución de los Videojuegos</h2>
+        <!-- Incluir video de YouTube usando HTTPS -->
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/THgGHCflh_0?si=2EWAR6P9JF6Zl5gF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+        <h2>Enlaces de Interés</h2>
+        <ul>
+            <li><a href="https://es.wikipedia.org/wiki/Videojuego" target="_blank">Wikipedia - Videojuego</a></li>
+            <li><a href="https://www.ign.com/" target="_blank">IGN - Noticias y Reviews de Videojuegos</a></li>
+            <li><a href="https://www.gamespot.com/" target="_blank">GameSpot - Noticias y Análisis de Videojuegos</a></li>
+        </ul>
+    </div>
+</body>
+</html>
